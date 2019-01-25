@@ -1,6 +1,4 @@
 <!-- $theme: default -->
-
----
 # Where you stand
 
 ### Goals
@@ -24,8 +22,8 @@ If so, you will be part of the **Produt** group, otherwise, you are now part of 
 
 * Today, Ilyass will present for the **Learning** group, next meeting, someone else from the **Product** group will
   * **Learning** group will have goals to accomplish during each session
-  * Up to all members of **Product** group can be tasked to help/show/guide members of **Learning** group if asked by the session presenter
-  * When programming or doing exercises, **Learning** members will program **in pair** using the same workstation and switch every 12 minutes (**pair programming**)
+  * Up to all members of **Product** group can be tasked with helping/showing/guiding members of **Learning** group if asked by the session presenter
+  * When programming or doing exercises, **Learning** members will program **in pair** using **the same workstation** and switch every 12 minutes (**pair programming**)
 
 ### Goals: python shell, integers, operators, strings
 ### Who will be presenter for the following session (if and for loops, scripting and functions) ? 
@@ -122,6 +120,7 @@ http://www.openexpmechanics.science/
 * Ability to interact with publishers/repositories' APIs
 * Recommendation through ML
 * Bibtex parsing tool
+* Usage of git for collaboration and versioning
 
 #### Tasks/Teams
 
@@ -131,6 +130,3 @@ http://www.openexpmechanics.science/
 
 #### Learning group
 * A **different** member (or several) of the product team will be responsible for the learning team for each session (you can also update repos https://github.com/pythonclubmtl)
-
-
----
