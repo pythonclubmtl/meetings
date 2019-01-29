@@ -4,6 +4,15 @@
 
 # pythonclub 02
 
+<img src="images/pseudowrong.jpg" alt="drawing" />
+
+Start your VM, open your terminal (`Ctrl+Alt+T`), then type in `python3`
+
+
+---
+
+# pythonclub 02
+
 Start your VM, open your terminal (`Ctrl+Alt+T`) and try to type the commands shown on screen, we're going to go through:
 * lists
 * dictionaries
