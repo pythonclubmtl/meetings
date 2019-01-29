@@ -93,6 +93,7 @@ http://www.openexpmechanics.science/
 * **(M)** Then, go through: https://www.practicepython.org/exercise/2014/01/29/01-character-input.html
 * **(M)** Then this one: https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
 * **(O)** Next is: https://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html
+* Homework: Code a caesar cipher (code accepts (message, key) and provides result)
 
 <!-- *footer: -->
 

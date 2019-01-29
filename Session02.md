@@ -133,7 +133,7 @@ Notice how the terminal prompt changed to reflect the director we are in:
 `ilyass@tx1~/Exercises$` 
 We are now going to write a python script in this folder. We will be using `atom`.
 First, let's get `atom`. We can install software using the `apt-get` command:
-`ilyass@tx1~/Exercises$ sudo snap install --classic atom`
+`ilyass@tx1~/Exercises$ sudo snap install atom --classic`
 * `sudo` means that we need admin privileges to execute this command
 * `snap`: simple installation and update management (like an appstore, `apt-get` is the most popular one)
 * `install` we want `snap` to use the `install` function
