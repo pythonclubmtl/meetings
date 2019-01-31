@@ -4,10 +4,11 @@
 
 # pythonclub 02
 
-<img src="images/pseudowrong.jpg" alt="drawing" />
+<img src="images/pseudowrong.jpg" alt="drawing" width="550"/>
 
-Start your VM, open your terminal (`Ctrl+Alt+T`) (something else for Macs :P), then type in `python3`
+Start your VM, open your terminal (`Ctrl+Alt+T`) *(something else for Macs :P)*, then type in `python3`
 
+<!-- *footer: -->
 
 ---
 
@@ -76,10 +77,10 @@ Modify list
 ---
 
 # dicts (1/2)
-An item has a key and the corresponding value expressed as a pair, key: value.
+An item has a key and the corresponding value expressed as a pair, `key: value`.
 
-(Tip1:For people transitioning from Matlab to python, dicts are like structure in Matlab.
- Tip2:Transdering data from Matlab .mat to Python can be done with dicts !)
+* Tip1:For people transitioning from Matlab to python, dicts are like structure in Matlab.
+ * Tip2:Transfering data from Matlab .mat to python can be done with dicts !
 
 ```
 # empty dictionary
