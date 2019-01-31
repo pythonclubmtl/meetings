@@ -6,7 +6,7 @@
 
 <img src="images/pseudowrong.jpg" alt="drawing" />
 
-Start your VM, open your terminal (`Ctrl+Alt+T`), then type in `python3`
+Start your VM, open your terminal (`Ctrl+Alt+T`) (something else for Macs :P), then type in `python3`
 
 
 ---
@@ -43,7 +43,7 @@ Compound datatypes often referred to as sequences, most common is `list`.
 ```
 Get element of a list (first element is `0`):
 ```python
->>> my_list[0]
+>>> my_list[0] #This is one of the main differences between matlab and python
 >>> my_list[1]
 ```
 
@@ -77,6 +77,9 @@ Modify list
 
 # dicts (1/2)
 An item has a key and the corresponding value expressed as a pair, key: value.
+
+(Tip1:For people transitioning from Matlab to python, dicts are like structure in Matlab.
+ Tip2:Transdering data from Matlab .mat to Python can be done with dicts !)
 
 ```
 # empty dictionary
