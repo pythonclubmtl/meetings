@@ -199,7 +199,7 @@ for val in sequence:
 
 ---
 
-# Exercices
+# Exercises
 
 ### 1. Fibonacci
 Write a script that asks the user how many Fibonacci numbers to generate, then generates them and prints them as a list. Fibonacci sequence: $x_n = x_{n-1} + x_{n-2}$
