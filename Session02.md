@@ -236,6 +236,9 @@ Loading a package takes resources (memory, time). Sometimes we just want one fun
 ---
 # Caesar's cipher: string package (1/2)
 
+**Write a caeasar cipher program to encode and decode messages.**
+Below are some helpful functions.
+
 Need the alphabet as a string ? 
 ```python
 >>> import string
