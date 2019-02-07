@@ -61,6 +61,20 @@ When you feel that you should submit your code on the remote repository (github)
 
 ---
 
+# git: explore
+
+Go to the `pythonclubmtl/meetings` repo and click on `XX commits`:
+
+* Click on any commit's name to check modifications
+* Click on `Browse files` or `<>`to revert the repository as it was when that commit happened
+* Try the split views to easily see updates
+* Click next to a line number after clicking on a commit to add a question, remark or blame (tag me using `@ilyasst`)
+* Notice those `Merge` commits, we will not expand on those know, but that is what happens when I work on the same file from two different computers
+
+Github is just an interface, you can actually do all of this while offline from your terminal. The `.git` folder in each repo contains all the necessary data.
+
+---
+
 # regular expressions: regexp
 
 > A regular expression, regex or regexp is a sequence of characters that define a search pattern. Usually this pattern is used by string searching algorithms for "find" or "find and replace" operations on strings, or for input validation. 
