@@ -232,11 +232,11 @@ Loading a package takes resources (memory, time). Sometimes we just want one fun
 
 * Basic packages are provided with python (https://docs.python.org/3/library/), anyone can write a package that we can the download online.
 
-
 ---
+
 # Caesar's cipher: string package (1/2)
 
-**Write a caeasar cipher program to encode and decode messages.**
+**Write a caesar cipher program to encode and decode messages.**
 Below are some helpful functions.
 
 Need the alphabet as a string ? 

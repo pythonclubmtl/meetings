@@ -15,6 +15,8 @@ Start your VM, open your terminal (`Ctrl+Alt+T`) and try to type the commands sh
 * git
 * regex
 
+Next time: `PROJECT`
+
 ---
 
 # git
