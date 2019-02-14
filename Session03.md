@@ -137,13 +137,14 @@ import csv
 csv_data = []
 with open('../datasets/Popular_Baby_Names_NY.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
+    line_count = 0
     for row in csv_reader:
         if line_count == 0:
-        	print("The first line contains the column headers:")
+            print("The first line contains the column headers:")
             print(row)
             line_count += 1
         else:
-        	csv_data.append(row)
+            csv_data.append(row)
             line_count += 1
     print(f'Processed {line_count} lines.') #Can also use len(csv_data)
 ```
