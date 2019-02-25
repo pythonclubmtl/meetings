@@ -38,7 +38,7 @@ Zotero is **highly** recommended, especially if you work with publications
 # Project: Use Case
 
 1. I export my library from (`.bib`) Zotero / EndNote / Mendeley / Docear / JabRef
-2. I contact our bot (`IbnBOTuta`) and send my `.bib` file
+2. I contact our bot and send my `.bib` file
 3. The bot transfers the file to our python code that:
 	* Extracts available data (extracts abstracts, titles, keywords, authors)
 	* Analyzes **all** titles and abstracts to determine actual keywords and generates a classifier
