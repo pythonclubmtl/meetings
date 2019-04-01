@@ -158,7 +158,7 @@ with open('../datasets/Popular_Baby_Names_NY.csv') as csv_file:
 1. Create a function (`get_csv_data`) which takes a path (as a string) and returns the content of a CSV file as a list which itself contains each column as a list (without the header): `[[column_1], [column_2], ... , [column_n]]`
 2. Write a script which provides (use your `get_csv_data` function in it):
 * The **most popular female name** for **each year**
-* The **most popular hispanic name for males between 2011-2016** 
+* The **most popular hispanic name for males between 2011-2015** 
 * The **most popular female name for any ethnicity between 2012-2015**
 
 ```python
